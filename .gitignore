@@ -44,3 +44,4 @@ build/
 
 # Log files
 *.log
+.idea/
