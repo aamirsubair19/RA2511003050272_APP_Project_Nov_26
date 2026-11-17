@@ -15,7 +15,6 @@
   ## Mentor Details
 - Mentor Name: Dr. S. Shargunam 
 - Designation: Subject Handling Faculty
-- 
 
 ## Project Overview
 
