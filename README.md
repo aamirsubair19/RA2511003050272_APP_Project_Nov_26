@@ -5,14 +5,12 @@
 - Course Name:  ADVANCED PROGRAMMING PRACTICE
 
 - ## Team Members
-- +------------------------------------------------------------------------+
 - | Name          | Register Number | Department | Section | Academic Year |
   |---------------|-----------------|------------|---------|---------------|
   | AAMIR SUBAIR  | RA2511003050272 | CSE        | E       | 2025-2029     |
   | AADESH S      | RA2511003050298 | CSE        | E       | 2025-2029     |
   | L NANTHAGOPAL | RA2511003050283 | CSE        | E       | 2025-2029     |
   | PRAVEEN S     | RA2511003050245 | CSE        | E       | 2025-2029     |
-  +------------------------------------------------------------------------+
 
   ## Mentor Details
 - Mentor Name: Dr. S. Shargunam 
